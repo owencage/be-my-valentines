@@ -9,9 +9,13 @@
     "lint": "eslint"
   },
   "dependencies": {
+    "@tsparticles/react": "^3.0.0",
     "next": "16.1.4",
     "react": "19.2.3",
-    "react-dom": "19.2.3"
+    "react-confetti": "^6.4.0",
+    "react-dom": "19.2.3",
+    "react-rewards": "^2.1.0",
+    "tsparticles": "^3.9.1"
   },
   "devDependencies": {
     "@tailwindcss/postcss": "^4",
