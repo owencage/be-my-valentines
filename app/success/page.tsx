@@ -13,16 +13,16 @@ export default function Page() {
     "I knew you’d say yes😌💖",
     "My heart is doing backflips💘",
     "This is my favourite moment🥰",
-    "We’re officially a vibe💞",
+    // "We’re officially a vibe💞",
     "Okay wow… I’m smiling HARD😁",
     "You chose correctly😌❤️",
-    "Love unlocked🔓💖",
+    // "Love unlocked🔓💖",
     "This calls for celebration🎉💘",
     "I’m not crying, you are😭❤️",
-    "That was the only right answer😉",
+    "That was the only right answer😉💖",
     "My happiness just leveled up💕",
     "You’re kinda amazing, you know that?🥺",
-    "Valentine secured 💖🔥",
+    // "Valentine secured 💖🔥",
   ];
 
   const [message, setMessage] = useState("");
